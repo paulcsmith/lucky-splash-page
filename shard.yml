@@ -1,0 +1,23 @@
+name: lucky-splash-page
+version: 0.1.0
+
+authors:
+  - Paul Smith <paulcsmith0218@gmail.com>
+
+targets:
+  lucky-splash-page:
+    main: src/lucky-splash-page.cr
+
+crystal: 0.22.0
+
+license: MIT
+
+dependencies:
+  lucky_web:
+    github: luckyframework/web
+  lucky_record:
+    github: luckyframework/record
+  lucky_migrator:
+    github: luckyframework/migrator
+  habitat:
+    github: luckyframework/habitat
