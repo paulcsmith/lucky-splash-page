@@ -15,6 +15,7 @@ class LuckyWelcomePage
               background-color: #002748;
               color: #fff;
               font-family: 'Lato', sans-serif;
+              border-top: 3px solid #9EFF66;
             }
 
             .container {
